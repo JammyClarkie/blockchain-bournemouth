@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-bournemouth",
+  "version": "1.0.0",
+  "description": "Practical run through done at blockhain bournemouth meetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JammyClarkie/blockchain-bournemouth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JammyClarkie/blockchain-bournemouth/issues"
+  },
+  "homepage": "https://github.com/JammyClarkie/blockchain-bournemouth#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "web3": "^1.0.0-beta.24"
+  }
+}
